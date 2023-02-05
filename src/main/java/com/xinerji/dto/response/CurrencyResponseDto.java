@@ -17,5 +17,5 @@ public class CurrencyResponseDto {
     private Double forexSelling;
     private Double banknoteBuying;
     private Double banknoteSelling;
-   
+
 }
